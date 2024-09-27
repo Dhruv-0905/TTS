@@ -1,5 +1,5 @@
 # TTS
-A text to speech model using python's TTS model
+A text to speech model using python's TTS module
 
 Steps:
 
